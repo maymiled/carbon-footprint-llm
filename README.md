@@ -1,6 +1,12 @@
 # 🌍 CarbonAttention  
 ## LLM-Based Carbon Footprint Estimation for Hospital Procurement & Mobility
 
+### 🚀 Live Applications
+
+[![Procurement Dashboard](https://img.shields.io/badge/Streamlit-Procurement%20Dashboard-red?logo=streamlit)](https://mathlesage-rdc-app-5zfflh.streamlit.app/)
+
+[![Mobility Dashboard](https://img.shields.io/badge/Streamlit-Mobility%20Simulation-blue?logo=streamlit)](https://mathlesage-rdc-may-app-jaiyji.streamlit.app/)
+
 This project was developed during the **Rennes Data Challenge 2026** in collaboration with CHU Rennes.
 
 The objective was to design a data-driven system capable of:
