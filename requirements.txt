@@ -1,0 +1,15 @@
+streamlit
+pandas
+numpy
+googlemaps
+folium
+streamlit-folium
+scikit-learn
+plotly
+openpyxl
+matplotlib
+tensorflow
+torch
+statsmodels
+sentence-transformers
+transformers
